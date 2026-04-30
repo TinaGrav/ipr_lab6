@@ -1,7 +1,7 @@
 # Лабораторная работа №6: Kustomize и Helm
 
 ## Структура проекта
-
+<pre>
 lab-6/
 ├── todo-infrastructure/                    # Инфраструктура (БД)
 │   ├── mongodb/
@@ -43,7 +43,7 @@ lab-6/
                 └── prod/                  # Prod окружение
                     ├── kustomization.yaml
                     └── secret.yaml
-
+</pre>
 
 ## Инструкция по запуску
 
